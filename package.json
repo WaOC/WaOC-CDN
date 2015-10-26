@@ -1,6 +1,6 @@
 {
-  "name": "opencode-frontend-team",
-  "version": "0.0.2",
+  "name": "tray-frontend",
+  "version": "0.2.1",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.0",
